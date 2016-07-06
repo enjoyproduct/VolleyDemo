@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-aaba43fa3500ede519d3c43f8f3f62a4b2d31e19.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\pre-dexed\debug\gson-2.2.4-752a4694a6e7953de1b9e1ac68ee96a302f761f3.jar" />
+    </item>
+    <item
+        jar="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-dea810d7457aca045e77690c3ad8d412b70e331e.jar" />
+    </item>
+    <item
+        jar="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\libs\httpmime-4.2.5.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\pre-dexed\debug\httpmime-4.2.5-a8608ccc50545427696fe7c35dc2215b85fcc73a.jar" />
+    </item>
+    <item
+        jar="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\libs\volley.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7eb90d3407943ccbac85ddb1406522baa36ef0ba">
+        <dex dex="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\pre-dexed\debug\volley-d225b9f94bc8f3ea5a6444a6401f6bcb25700ece.jar" />
+    </item>
+    <item
+        jar="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\exploded-aar\se.emilsjolander\stickylistheaders\2.7.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3bdf77dbe58e0ec53a0178de532372e7c00859b9">
+        <dex dex="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\pre-dexed\debug\classes-9622517d1d93e5e63f7714167a4a59224758d263.jar" />
+    </item>
+    <item
+        jar="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\pre-dexed\debug\classes-90a75d69bf107486a2292d63609befff1c1ae797.jar" />
+    </item>
+    <item
+        jar="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.4.52\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059">
+        <dex dex="F:\Android_work(2016.1-)\Volley-demo-master\volleydemoapp\build\intermediates\pre-dexed\debug\classes-96cca22714263eca081b589081224bb90a880544.jar" />
+    </item>
+
+</items>
